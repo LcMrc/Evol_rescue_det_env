@@ -11,10 +11,10 @@ function pfix = Gillespie_fct(Nit, n, theta, gA, XA_i, fB, gB, XB_i, K, t0)
         w = 0;
         XA = XA_i;              % Initialization of the number of A individuals
         XB = XB_i;              % Initialization of the number of B individuals
-        t = 0;                 % Initialization of time
+        t = 0;                  % Initialization of time
         cumul = zeros(4, 1);    % To build the sampling tower
 
-        while (XA ~= 0 && XB ~= 0) || w == 0
+        while XA ~= 0 || (XB > 0 && XB < 100) 
             
             % Compute the fitness of W microbes
 
