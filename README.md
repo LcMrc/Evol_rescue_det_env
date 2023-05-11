@@ -1,7 +1,5 @@
 # Evol_rescue_det_env
-Matlab implementation of the code described in "Adapt or perish: Evolutionary rescue in a gradually deteriorating environment", by Loïc Marrec and Anne-Florence Bitbol.
-
-This code contains a Matlab implementation of the code described in "Adapt or perish: Evolutionary rescue in a gradually deteriorating environment", Loïc Marrec and Anne-Florence Bitbol.
+Matlab implementation of the code described in "[Adapt or perish: Evolutionary rescue in a gradually deteriorating environment](https://www.biorxiv.org/content/10.1101/2020.05.05.079616v2)", by Loïc Marrec and Anne-Florence Bitbol.
 
 Archived version: https://doi.org/10.5281/zenodo.3993272 
 
@@ -11,4 +9,4 @@ In order to use the code, please run either "generate_data" in the subfolder "Ge
 
 The source code is freely available under the GNU GPLv3 license.
 
-If you find this code useful for your research, please cite the associated reference, "Adapt or perish: Evolutionary rescue in a gradually deteriorating environment", by Loïc Marrec and Anne-Florence Bitbol.
+If you find this code useful for your research, please cite the associated reference, "[Adapt or perish: Evolutionary rescue in a gradually deteriorating environment](https://www.biorxiv.org/content/10.1101/2020.05.05.079616v2)", by Loïc Marrec and Anne-Florence Bitbol.
